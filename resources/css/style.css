@@ -27,8 +27,8 @@ p.copyright {
   text-align: right;
 }
 
-p.a {
-  color: Aquamarine;
+a.link {
+  color: #76febc;
   font-size: 16px;
 }
 
