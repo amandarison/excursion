@@ -1,0 +1,28 @@
+h1 {
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h1.main {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+p.link {
+  color: aquamarine;
+  font-size: 16px
+}
+
+img {
+  background-color: black;
+  text-align: center;
+}
