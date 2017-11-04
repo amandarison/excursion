@@ -17,6 +17,10 @@ p {
   color: gray;
 }
 
+p.copyright {
+  text-align: right;
+}
+
 p.link {
   color: aquamarine;
   font-size: 16px
